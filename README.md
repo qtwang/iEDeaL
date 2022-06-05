@@ -3,6 +3,9 @@ The codebase for PVLDB Volume 16 Submission - iEDeaL: A Deep Learning Framework 
 
 The code is being cleaning and will be updated.
 
+## Lemma 1 and Proof
+[https://qtwang.github.io/assets/pdf/iEDeaL-lemma1.pdf](https://qtwang.github.io/assets/pdf/iEDeaL-lemma1.pdf)
+
 ## Usage
 1. Create config.json according to Conf.defaults in ./util/conf.py
 2. Tune a model with the Experiment class in ./util/experiment.py, taking the config.json filepath as input. 
